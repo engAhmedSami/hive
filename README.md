@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides a detailed explanation of the advanced caching system I developed for the **Stronger Kiddos** Flutter application. The system is designed to significantly improve performance, reduce Firebase API calls, and enable full offline functionality. It also includes data validation layers, migration handling, and performance optimization.
+This document provides a detailed explanation of the advanced caching system I developed for a Flutter application. The system is designed to significantly improve performance, reduce Firebase API calls, and enable full offline functionality. It also includes data validation layers, migration handling, and performance optimization.
 
 ---
 
@@ -131,12 +131,5 @@ This eliminated all corruption issues and made cached data fully stable.
 
 ---
 
-## GitHub Link
-
-You can find the full implementation here:
-
-[https://github.com/engAhmedSami/Stronger-Kiddos-main/blob/main/lib/core/cache/hive_cache_service.dart](https://github.com/engAhmedSami/Stronger-Kiddos-main/blob/main/lib/core/cache/hive_cache_service.dart)
-
----
 
 If you need a shorter version, English version, or a portfolio-ready version, I can generate it instantly.
